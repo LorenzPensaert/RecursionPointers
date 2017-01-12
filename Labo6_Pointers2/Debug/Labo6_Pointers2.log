@@ -1,0 +1,17 @@
+﻿Build started 12/16/2015 11:04:00 AM.
+     1>Project "E:\OneDrive\School\3ICT\Semester 1\Programmeren 5\Labo6_RecursiePointers\Labo6_Pointers2\Labo6_Pointers2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt Oef2.c
+         Oef2.c
+     1>e:\onedrive\school\3ict\semester 1\programmeren 5\labo6_recursiepointers\labo6_pointers2\oef2.c(10): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[6]'
+     1>e:\onedrive\school\3ict\semester 1\programmeren 5\labo6_recursiepointers\labo6_pointers2\oef2.c(10): warning C4024: 'strcatPointers': different types for formal and actual parameter 1
+     1>e:\onedrive\school\3ict\semester 1\programmeren 5\labo6_recursiepointers\labo6_pointers2\oef2.c(10): warning C4024: 'strcatPointers': different types for formal and actual parameter 2
+     1>e:\onedrive\school\3ict\semester 1\programmeren 5\labo6_recursiepointers\labo6_pointers2\oef2.c(30): warning C4013: 'strlen' undefined; assuming extern returning int
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\OneDrive\School\3ICT\Semester 1\Programmeren 5\Labo6_RecursiePointers\Debug\Labo6_Pointers2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\OneDrive\School\3ICT\Semester 1\Programmeren 5\Labo6_RecursiePointers\Debug\Labo6_Pointers2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\OneDrive\School\3ICT\Semester 1\Programmeren 5\Labo6_RecursiePointers\Debug\Labo6_Pointers2.lib" /MACHINE:X86 Debug\Oef2.obj
+         Labo6_Pointers2.vcxproj -> E:\OneDrive\School\3ICT\Semester 1\Programmeren 5\Labo6_RecursiePointers\Debug\Labo6_Pointers2.exe
+     1>Done Building Project "E:\OneDrive\School\3ICT\Semester 1\Programmeren 5\Labo6_RecursiePointers\Labo6_Pointers2\Labo6_Pointers2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.39

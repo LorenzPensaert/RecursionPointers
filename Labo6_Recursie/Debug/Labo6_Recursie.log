@@ -1,0 +1,10 @@
+﻿Build started 12/16/2015 10:04:59 AM.
+     1>Project "E:\OneDrive\School\3ICT\Semester 1\Programmeren 5\Labo6_RecursiePointers\Labo6_Recursie\Labo6_Recursie.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Labo6_Recursie.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         Labo6_Recursie.vcxproj -> E:\OneDrive\School\3ICT\Semester 1\Programmeren 5\Labo6_RecursiePointers\Debug\Labo6_Recursie1.exe
+     1>Done Building Project "E:\OneDrive\School\3ICT\Semester 1\Programmeren 5\Labo6_RecursiePointers\Labo6_Recursie\Labo6_Recursie.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04
